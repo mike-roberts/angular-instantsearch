@@ -24,6 +24,7 @@
     "src/index.ts"
   ],
   "angularCompilerOptions": {
+    "compilationMode": "partial",
     "strictMetadataEmit": true,
     "genDir": "./dist/waste"
   }
